@@ -1,0 +1,67 @@
+{
+    "events": [
+        {
+            "title": "KPIT Sparkle",
+            "date": "30.09.22",
+            "Date": "2022-09-30",
+            "description": "Last Date for Idea Submission",
+            "link": "https://sparkle.kpit.com/"
+        },
+        {
+            "title": "e-Yantra Innovation Challenge",
+            "date": "25.09.22",
+            "Date": "2022-09-25",
+            "description": "A unique robotics competition where participants “learn while they compete and compete while they learn.” The competition is a “hardware MOOC (Massive Online Open Course) available internationally.",
+            "link": "https://eyic.e-yantra.org/"
+        },
+        {
+            "title": "TATA Imagination Challenge",
+            "date": "15.09.22",
+            "Date": "2022-09-15",
+            "description": "India’s largest ideas fest is back and you stand a chance to win ₹2 lakh! #TataImaginationChallenge 2022 is open to all college students across India and Tata employees worldwide. Registration ends by 15 Sept, 2022.",
+            "link": "https://www.tata.com/careers/programs/tata-imagination-challenge?utm_source=twitter&utm_medium=social&utm_campaign=intro&twclid=2-7d4j2upnq4mymz9nvt02kor42&fbclid=IwAR0JxLkE_gwZm146pCVCdEwbzra0RWMkoYKkW66_GQUydVLPpkY1jfgTXqo&fs=e&s=cl"
+        },
+        {
+            "title": "Ideathon",
+            "date": "19.09.22",
+            "Date": "2022-09-19",
+            "description": "registration of idea for Ideathon",
+            "link": "https://forms.gle/JkaexNmwK9Ji5u4eA"
+        },
+        {
+            "title": "Ideathon",
+            "date": "21.09.22",
+            "Date": "2022-09-21",
+            "description": "Survey and literature Review in IEEE format with mentor",
+            "link": ""
+        },
+        {
+            "title": "Ideathon",
+            "date": "21.09.22",
+            "Date": "2022-09-21",
+            "description": "Business value composition preparation with mentor",
+            "link": ""
+        },
+        {
+            "title": "Ideathon",
+            "date": "26.09.22",
+            "Date": "2022-09-26",
+            "description": "Submission of final idea",
+            "link": "https://forms.gle/vsLYWVPoo4gHSMZaA"
+        },
+        {
+            "title": "Ideathon Competition",
+            "date": "27.09.22",
+            "Date": "2022-09-27",
+            "description": "Top 20-25 ideas will be shortlisted for the next level of Proof of Concept (PoC) competition",
+            "link": ""
+        },
+        {
+            "title": "APP@THON",
+            "date": "08.10.22",
+            "Date": "2022-10-08",
+            "description": "Ready? Steady? Solve, use your skills to solve real world problems",
+            "link": "https://bit.ly/appathon22"
+        }
+    ]
+}

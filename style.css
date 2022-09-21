@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+    font-family: 'Lato';
+}
+
+body{
+    background-color: #131a27 !important;
+    color: #ffffff !important;
+}
+
+.event {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 40px;
+    flex-shrink: unset;
+}
+
+.check {
+    flex-shrink: 0;
+    height: 30px;
+    width: 30px;
+    background-color: #f7be16;
+    border-radius: 50%;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.check::after {
+    content: '';
+    position: absolute;
+    width: 4px;
+    background-color: #f7be16;
+    top: 32px;
+    bottom: 2px;
+    left: 13px;
+}
+
+.event:last-child>.check::after {
+    display: none;
+}
+
+.event.completed>.check::after {
+    background-color: #27aa80;
+}
+
+.done {
+    background-color: #27aa80;
+}
+
+.title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.material-icons {
+    color: white;
+}
+
+.card {
+    background-color: #192133 !important;
+    color: #ffffff !important;
+    /* box-shadow: 5px 5px 5px #010057; */
+}
+
+.card:hover {
+    /* box-shadow: 5px 10px 5px #010057; */
+}
+
+.card-title {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+hr {
+    padding: 0;
+    margin: 0 0;
+}
+
+.card-text {
+    font-size: 20px;
+}
+
+.btn-outline-success {
+    color: #27aa80 !important;
+}
+
+.btn-outline-success:hover {
+    color: #ffffff !important;
+    background-color: #27aa80 !important;
+}
+
+.btnfs {
+    font-size: 18px !important;
+}
+
+@media only screen and (max-width: 600px) {
+    .card-title {
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    .card-text {
+        font-size: 18px;
+    }
+
+    .check {
+        margin-right: 8px;
+    }
+}
